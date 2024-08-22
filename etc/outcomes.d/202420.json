@@ -1,0 +1,33 @@
+{
+  "_comment" : "these values need to be updated each term.",
+  
+  "term_name" : "Fall 2024",
+  "term_suffix" : "202420",
+  "org_term" : "102420-202420-81x",
+  "account_ids" : [16124, 16185, 16348, 16090, 16125],
+  "terms" : [3378,3379,3380],
+  "termcodes" : ["81X", "82X", "16R", "ZDC"],
+  "outcomes_courses" : ["ACCT101",
+                        "BIOL101",
+                        "BUSI279",
+                        "BUSN101",
+                        "CPIN279",
+                        "CRIM260",
+                        "HIST101",
+                        "HLHS101",
+                        "HLHS111",
+                        "HLHS211",
+                        "HLHS105",
+                        "HUMS279",
+                        "MATH123",
+                        "PSYC101",
+                        "SOCI111"],
+
+  
+  "_comment" : "anything after this shouldn't need to be updated on the regular.",
+
+  "account_id" : 417,
+  "outcomes_acct_code": "SW-OUTCOMES-ORGZ",
+  "org_suffix" : "OUTCOMES-SW-ORGZ"
+  
+}
