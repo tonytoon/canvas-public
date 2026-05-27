@@ -1,3 +1,6 @@
+# Canvas user-generated token expiration management tool
+# 2026 Tony Toon <rtoon@ivytech.edu>
+
 import os
 import sys
 import argparse
