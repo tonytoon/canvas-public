@@ -17,7 +17,7 @@ import urllib.parse
 # API_URL = "https://myinstitution.instructure.com"
 # API_KEY = "secret"
 
-API_URL = os.environ["CANVAS_SERVER_NAME"]
+API_URL = os.environ["CANVAS_LMS_URL"]
 API_KEY = os.environ["CANVAS_LMS_TOKEN"]
 
 # used by requests to directly interact with the web server.

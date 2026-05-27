@@ -11,7 +11,7 @@ from zipfile import ZipFile
 from canvasapi import Canvas  # used for interfacing with canvas
 
 CANVAS_DIR = os.environ["CANVAS_DIR"]
-API_URL = os.environ["CANVAS_SERVER_NAME"]
+API_URL = os.environ["CANVAS_LMS_URL"]
 API_KEY = os.environ["CANVAS_LMS_TOKEN"]
 
 output = Path(CANVAS_DIR) / "output" / "outcomes"
